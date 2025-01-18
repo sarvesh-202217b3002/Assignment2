@@ -70,8 +70,6 @@ ArtMag               ART202          Issue005                 1357-2468
 - **Formatted Output**: Displaying data in a clean, tabular layout.
 
 ## Author
-- [Your Name]
+- Sarvesh Kumar soni
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
 
